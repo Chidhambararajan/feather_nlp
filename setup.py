@@ -7,7 +7,7 @@ setup(
   description = 'This library works on top of RASA-NLU to make its nlu functionalities \navailable in low powered devices like raspberry pi',   # Give a short description about your library
   author = 'Chidhambararajan',                   # Type in your name
   author_email = 'chidha1434@protonmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/Chidhambararajan/feather_nlp',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['NLP', 'machine learning', 'rasa nlu'],   # Keywords that define your package best
   install_requires=[
